@@ -1,4 +1,41 @@
 body{
     margin: 0px;
     padding: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* top header part start */
+.top-header{
+    background-image: url('../imges/top-banner.png');
+    display: inline-block;
+    background-repeat: no-repeat;
+}
+.half-width h1{
+    font-weight: bold;
+    font-size: 50px;
+}
+h2 span{
+    color: red;
+    font-weight: bold;
+    font-size: 50px;
+}
+.half-width h3{
+    color: blueviolet;
+    font-size: 22px;
+    font-weight: 500;
+    margin-top: 15px;
+}
+}
+.half-width p{
+    font-weight: 400;
+    font-size: 16px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
 }
