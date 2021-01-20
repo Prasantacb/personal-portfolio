@@ -39,3 +39,13 @@ h2 span{
 .half-width img{
     width: 100%;
 }
+.half-width a{
+    background-color:goldenrod;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: 600;
+    color: white;
+}
+
+/* top header part end */
