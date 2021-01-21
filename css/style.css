@@ -7,8 +7,10 @@ body{
 /* top header part start */
 .top-header{
     background-image: url('../imges/top-banner.png');
-    display: inline-block;
     background-repeat: no-repeat;
+}
+section{
+    display: inline-block;
 }
 .half-width h1{
     font-weight: bold;
@@ -49,3 +51,29 @@ h2 span{
 }
 
 /* top header part end */
+
+    /* body-part-start */
+
+.body-part{
+    margin-top: 15px;
+}
+.dream{
+    font-size: 50px;
+}
+
+    /* body-part-end */
+
+    /* footer-part-start  */
+
+.footer-had-text{
+    font-size: 35px !important;
+}
+.footer-part{
+    background-image: url("../imges/exp-bg.png");
+    background-repeat: no-repeat;
+
+
+}
+.single-experiences{
+
+}
